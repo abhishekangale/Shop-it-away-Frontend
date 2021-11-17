@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "176790616506",
+    "firebase_url": "https://shop-it-away-a3974-default-rtdb.firebaseio.com",
+    "project_id": "shop-it-away-a3974",
+    "storage_bucket": "shop-it-away-a3974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176790616506:android:133e06b3634a77d3c54583",
+        "android_client_info": {
+          "package_name": "com.example.shop_it_away"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176790616506-jcauvup3pbgl8d5gcpvqb52u39a65o6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOApZAej2Ud3-fqIK02MU5YVdEHLJpBX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176790616506-jcauvup3pbgl8d5gcpvqb52u39a65o6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176790616506:android:3e5d77684ed6a7bcc54583",
+        "android_client_info": {
+          "package_name": "com.example.shopitaway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176790616506-jcauvup3pbgl8d5gcpvqb52u39a65o6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOApZAej2Ud3-fqIK02MU5YVdEHLJpBX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176790616506-jcauvup3pbgl8d5gcpvqb52u39a65o6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

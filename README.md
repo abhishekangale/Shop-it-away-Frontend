@@ -1,4 +1,4 @@
-"# Shop-it-away-Frontend" 
+# Shop-it-away-Frontend 
 We have divided our app in 3 phases.
 The 1st phase has Login and SignUp.
 The 2nd phase has Home page.
